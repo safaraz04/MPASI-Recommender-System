@@ -1,0 +1,207 @@
+﻿id;nama_resep;bahan_resep;bahan_alergen;daerah_resep;umur_resep
+1;Bubur Hati Ayam;nasi, hati ayam, bayam, minyak jagung, garam, bawang putih, bawang merah, jahe;;Indonesia;6-8 Bulan
+2;Bubur Hati Ayam Santan;nasi, hati ayam, wortel, santan, minyak kelapa sawit, air, garam, bawnag putih, bawang merah;;Indonesia;6-8 Bulan
+3;Bubur Pepes Hati Ayam;nasi, hati ayam, wortel, minyak kelapa, tomat, daun jeruk, daun salam, bawang merah, bawang putih, jahe, kunyit, serai, gula, garam;;Indonesia;6-8 Bulan
+4;Bubur Udang Tahu;nasi, udang giling, santan, tahu, tomat, kemangi, daun salam, jeruk nipis, garam, bawang merah, bawang putih, kemiri, jahe, gula;udang, tahu;Indonesia;6-8 Bulan
+5;Bubur Udang Buncis;nasi, udang giling, buncis, minyak jagung, jeruk nipis, bawang putih, bawang merah, garam;udang;Indonesia;6-8 Bulan
+6;Bubur Patin;nasi, hati ayam, ikan patin, tomat, minyak jagung, bawang bombai, jahe, daun salam, daun jeruk, seledri, garam air, jeruk nipis, bawang putih, bawang merah;ikan;Indonesia;6-8 Bulan
+7;Bubur Daging Sapi;nasi, daging sapi, bayam, minyak kelapa, garam, bawnag merah, bawang putih;;Indonesia;6-8 Bulan
+8;Bubur Hati dan Ayam;beras, dada ayam giling, hati ayam, brokoli, kaldu ayam, air, tahu, minyak kanola, garam, bawang putih, bawang merah, jahe;tahu;Indonesia;6-8 Bulan
+9;Bubur Tenggiri;beras, ikan tenggiri, buncis, kaldu ayam, minyak kelapa, garam, bawang putih, bawang merah;ikan;Indonesia;6-8 Bulan
+10;Bubur Ayam Mentega;beras, daging ayam giling, telur, wortel, air kaldu, mentega, garam, bawang merah, bawang putih;mentega, telur;Indonesia;6-8 Bulan
+11;Bubur Telur Daging;nasi, daging sapi, telur, brokoli, air, bawag putih, bawang merah, kecap asin, minyak wijen, mentega, merica, garam;minyak wijen,kecap, mentega;Indonesia;6-8 Bulan
+12;Bubur Puyuh Hati Ayam;nasi, puyuh, hati ayam, buncis, minyak jagung, garam, bawang putih, bawang merah;;Indonesia;6-8 Bulan
+13;Bubur Pepes Ikan Kembung;nasi. Ikan kembung, daun jeruk, daun salam, minyak jagung, tomat, kemangi, jeruk nipis, daun pisang, garam, bawang merah, bawang putih, jahe, serai, lengkuas;ikan;Indonesia;6-8 Bulan
+14;Bubur Kentang Hati Ayam;kentang, hati ayam, wortel, susu uht, kecap, minyak sayur, merica, garam, bawnag putih, bawang merah;kecap, susu;Indonesia;6-8 Bulan
+15;Bubur Opor Ayam;nasi, daging ayam, santan cair, wortel parut, daun salam, daun jeruk, air, minyak jagung, garam, bawang putih, bawang merah, jahe, kemiri, ketumbar;;Indonesia;6-8 Bulan
+16;Bubur Tahu Ikan Patin;nasi, ikan patin, tahu, brokoli, telur ayam, tomat, minyak kelapa, kemangi, garam, daun pisang, bawang putih, bawang merah, bawang  cincang;ikan,tahu, telur;Indonesia;6-8 Bulan
+17;Bubur Mujair;nasi, ikan mujair, hati ayam, wortel parut, daun salam, daun jeruk, minyak kanola, daun bawang, garam, bawang putih, bawang merah;ikan;Indonesia;6-8 Bulan
+18;Bubur Kakap Tempe;nasi, ikan kakap, tempe, tomat, kaldu ikan, minyak kedelai, garam, bawang putih, bawang merah;ikan, tempe;Indonesia;6-8 Bulan
+19;Bubur Uduk Hati Sapo;nasi, hati sapi, jahe, bayam, santan, minyak sayur, serai, garam, bawang putih, bawang merah;;Indonesia;6-8 Bulan
+20;Bubur Uduk Udang;nasi, udang, santan, wortel, daun salam, minyak kelapa, jahe, serai, hgaram, bawang putih, bawang merah;;Indonesia;6-8 Bulan
+21;Pure Avokad Jeruk;avokad, jeruk peras;;Indonesia;6-8 Bulan
+22;Pure Pisang Apel;apel, pisang, yogurt;yogurt;Indonesia;6-8 Bulan
+23;Puding Susu Vanila;kuning telur, susu, gula, pasta vanila, agar-agar, garam;telur, susu;Indonesia;6-8 Bulan
+24;Roti Kukus Keju;roti tawar, susu, telur, keju, margarin, bubuk vanili;susu, telur, roti, keju;Indonesia;6-8 Bulan
+25;Makaroni Keju;makaroni, daging sapi, telur, keju parut, mentega, minyak kelapa, garam, bawang putih, bawang bombai;keju,mentega,pasta;Indonesia;6-8 Bulan
+26;Siomay Ayam Udang;daging ayam, udang, tepung tapioka, minyak wijen, kecap asin, saus tiram, wortel, bengkuang, daun bawang, minyak kedelai/minyak jagung, garam, gula, bawang putih, bawang merah;udang,tepung,minyak wijen,kecap,saus tiram;Indonesia;6-8 Bulan
+27;Tim Tuna;nasi, ikan tuna, wortel parut, daun bawang, jahe, minyak jagung, garam, kecap, bawang putih, bawang merah;ikan;Indonesia;9-11 Bulan
+28;Tim Soto Daging;nasi, daging sapi, telur rebus, serai, daun bawang, daun jeruk, garam, gula, air, minyak jagung, tomat, bawang goreng, bawang merah, bawang putih kemiri, ketumbar, kunyit, jahe;telur;Indonesia;9-11 Bulan
+29;Kentang Dori Saus Keju;ikan dori, kentang, keju parut, tepung roti, susu uht, air, kuning telur, tepung maizena;susu,tepung,keju,ikan, telur;Indonesia;9-11 Bulan
+30;Tim Kuning Semur Hati Ayam;beras, air, wortel parut, tempe, kunyit bubuk, daun salam, bawang merah, daun bawang, seledri;kecap, tempe;Indonesia;9-11 Bulan
+31;Tim Semur Sapi Tempe;nasi, daging sapi, tempe, minyak jagung, tomat, jeruk nipis, kecap manis, garam, bawang merah, bawang putih;kecap, tempe;Indonesia;9-11 Bulan
+32;Nasi Tim Ayam Lodeh;beras, daging ayam, santan, kaldu ayam, daun salam, kacang panjang, minyak jagung, minyak kedelai, gula, garam, bawang putih;minyak kedelai;Indonesia;9-11 Bulan
+33;Tim Udang Brokoli;beras, kaldu ayam, garam, gula pasir, udang, brokoli, minyak jagung, minyak kelapa, bawang putih, bawang merah;udang;Indonesia;9-11 Bulan
+34;Tim Sambal Hati Sapi;nasi, hati sapi, santan, kentang, tomat, daun salam, daun jeruk, sereh, lengkuas, jahe, minyak kedelai, gula, garam, bawang merah, bawang putih, kemiri;minyak kedelai;Indonesia;9-11 Bulan
+35;Tim Daging Sapi;beras, daging sapi, kaldu ayam, wortel, minyak sayur, minyak wijen, kecap manis, merica bubuk, garam, bawang putih;minyak wijen, kecap;Indonesia;9-11 Bulan
+36;Tim Ayam Kecap;beras, kaldu ayam, wortel, kecap manis, minyak jagung, merica dan garam, bawang putih, bawang merah;kecap;Indonesia;9-11 Bulan
+37;Tim Cah Ikan Kembung;beras, daging ikan kembung, brokoli, kecap manis, saus tiram. Kaldu ayam, minyak jagung, minyak wijen, garam, jeruk nipis, bawang merah, bawang putih, jahe;ikan,minyak wijen, saus tiram;Indonesia;9-11 Bulan
+38;Nasi Tim Ayam Jamur;nasi, daging ayam, jamur merang, wortel parut, minyak wijen, kecap manis, kecap asin kaldu ayam, minyak kelapa sawit, awabng merah, bawang putih, bawang bombai, jahe;minyak wijen,kecap;Indonesia;9-11 Bulan
+39;Tim Tongkol;ikan tongkol, beras, garam, daun jeruk, santan, minyak jagung, keruk nipis, garam bawang merah, bawang putih, kunyit, kemiri;ikan;Indonesia;9-11 Bulan
+40;Tim Kentang Daging;kentang, brokoli, daging sapi, garam, minyak jagung, bawang putih, bawang merah;;Indonesia;9-11 Bulan
+41;Bola Nasi;nasi, daging ayam, tahu, telur, tepung maizena, wortel, tepung roti, minyak kedelai, bawang putih, bawang merah, daun bawang;tahu, minyak kedelai, telur;Indonesia;9-11 Bulan
+42;Nasi Tim Gurame;nasi, ikan gurame, wortel parut, tomat, minyak kanola, garam, daun seledri, bawang putih, bawang merah;ikan;Indonesia;9-11 Bulan
+43;Tim Semur Ayam;nasi, daging ayam, tahu putih, wortel, kecap manis, kaldu ayam, minyak jagung, bawang merah, bawang putih;tahu,kecap;Indonesia;9-11 Bulan
+44;Tim Kentang Telur;kentang, daging ayam, wortel,telur, margarin;telur;Indonesia;9-11 Bulan
+45;Tim Mie Ayam;mie telur, daging ayam, kaldu ayam, kecap asin, kecap manis, sawi, minyak canola, bawang merah, bawang putih;kecap;Indonesia;9-11 Bulan
+46;Tim Makaroni;makaroni, daging ayam, brokoli, bawang bombai, susu sapi, minyak canola, keju parut, garam, bawang merah, bawang putih;pasta,susu;Indonesia;9-11 Bulan
+47;Puding Susu Cokelat Vla;agar-agar, susu, gula, dark cooking chocolate, tepung maizena, air, gula pasir, susu, vanila;susu,tepung;Indonesia;9-11 Bulan
+48;Bola-Bola Tenggiri;ikan tenggoro, telur ayam, roti, daun bawang, tepung oat, keju, garam, minyak jagung;ikan,roti,keju,tepung;Indonesia;9-11 Bulan
+49;Bitterballen;daging sapi, tepung terigu, susu, wortel, telur, margarin, merica, garam, keju, tepung panir, bawang putih;tepung,susu,tepung;Indonesia;9-11 Bulan
+50;Lemper Ayam;nasi, santan, daging ayam, daun jeruk, daun salam, serai, minyak jagung, garam, gula, daun pisang, bawang putih, bawang merah, kemiri, ketumbar;;Indonesia;9-11 Bulan
+51;Bola Kentang Keju;kentang, tepung terigu, telur, gula, keju, tepung roti, minyak jagung;keju,tepung;Indonesia;9-11 Bulan
+52;Agar-agar Buah;agar-agar, air, pepaya, melon, semangka;;Indonesia;9-11 Bulan
+53;Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk;singkong putih, ikan kembung, ayam cincang, air kaldu ayam, bayam segar, daun salam, batang sereh, bawang merah, bawang putih, jeruk;ikan;Indonesia;6-8 Bulan
+54;Bubur Soto Ayam Santan;nasi putih, ayam cincang, tahu, labu siam, wortel, salam, sereh, daun jeruk, minyak goreng, santan, air kaldu ayam, bawang merah, bawang putih, kunyit, jahe, jeruk;tahu;Indonesia;6-8 Bulan
+55;Bubur Sup Daging Kacang Merah;nasi, dayam cincang, telur ayam, buncis, wortel, kacang merah, bawang daun, seledri, kaldu ayam, minyak, bawang merah, bawang putih, jeruk;telur, kacang;Indonesia;6-8 Bulan
+56;Bubur Kanju Rumbi Ayam dan Udang;nasi, ayam, udang, wortel, jagung pipil, santan, kaldu ayam, daun pandan, bawang merah, bawang putih, kapulaga, ketumbar, kayumanis, cengkeh, merica, jintan, pekak, pala, pepaya;udang;Indonesia;6-8 Bulan
+57;Puding Kentang Ayam dan Telur;kentang, ayam, telur puyuh, tahu, wortel, labu kuning, santan, sereh, daun salam, minyak, kaldu ayam, bawang merah, bawang putih, jeruk;telur, tahu;Indonesia;6-8 Bulan
+58;Nasi Tim Ikan Tuna Telur Puyuh;nasi, ikan tuna, telur puyuh, wortel, tomat, minyak kelapa, kaldu ayam, pepaya, semangka;ikan, telur;Indonesia;9-11 Bulan
+59;Nasi Tim Ayam Lele Cincang;nasi, ayam cincang, ikan lele, wortel, minyak goreng, santan, bawang bombay, kaldu ayam, semangka;ikan;Indonesia;9-11 Bulan
+60;Mie Kukus Telur Puyuh;mie, telur puyuh, wortel, keju, bawang daun, minyak, bumbu mie instant batita, air, pepaya;mie, keju, telur;Indonesia;9-11 Bulan
+61;Nasi Tim Ikan Telur Sayuran;nasi, telur puyuh, ikan kembung, sawi hujau, tomat, kaldu ayam, minyak kelapa, semangka;telur, ikan;Indonesia;9-11 Bulan
+62;Tim Bubur Manado Daging dan Udang;nasi, labu kuning, daging sapi, udang, jagung, bayam, minyak goreng, garam, daun bawang, kaldu daging, bawang merah, bawang putih, buah naga;udang;Indonesia;9-11 Bulan
+63;Bubur Susu Pertama;tepung beras putih, air, ASI;tepung;;6-8 Bulan
+64;Bubur Susu Sari Kacang Hijau;tepung beras putih, kacang hijau, air, ASI;tepung,kacang;Indonesia;6-8 Bulan
+65;Bubur Susu Jagung;tepung beras putih, jagung, air, ASI;tepung;Indonesia;6-8 Bulan
+66;Puree Labu Tomat;labu butternut squash, tomat;;Indonesia;6-8 Bulan
+67;Puree Alpukat;alpukat, ASI/susu formula;susu;Indonesia;6-8 Bulan
+68;Puree Ubi Keju;ubi jalar, keju, air;keju;Indonesia;6-8 Bulan
+69;Finger Food Kentang Panggang;kentang;;Indonesia;6-8 Bulan
+70;Finger Food Apel Panggang;apel, tepung beras, telur ayam kampung;tepung, telur;Indonesia;6-8 Bulan
+71;Finger Food Wortel Panggang;wortel, tepung roti, keju, minyak kelapa;tepung,keju;Indonesia;6-8 Bulan
+72;Puree Pisang;pisang, ASI/susu formula, yogurt, tepung sereal;susu,yogurt,tepung;Indonesia;9-11 Bulan
+73;Puree Buah Pelangi;apel, pir, plum, ASI/susu formula;susu;Indonesia;9-11 Bulan
+74;Puding Roti Apel;apel, roti, ASI/susu formula;roti,susu;Indonesia;9-11 Bulan
+75;Pisang Labu Kuning;labu kuning, pisang, yogurt atau sereal;yogurt;;9-11 Bulan
+76;Sup Krim Labu Kuning;labu kuning, wortel, kaldu ayam, bawang bombay, yogurt, kayu manis, merica;yogurt;Indonesia;9-11 Bulan
+77;Smoothie Pisang Labu Kuning;pisang, labu kuning, yogurt, kayu manis;yogurt;Indonesia;9-11 Bulan
+78;Ubi Bayam Susu;bayam, ubi jalar, ASI;;Indonesia;9-11 Bulan
+79;Bubur Susu Ubi;ubi jalar, ASI;;Indonesia;9-11 Bulan
+80;Nasi Tim Saring Ayam Wortel Keju;beras, daging ayam, wortel, tahu, kaldu ayam, santan, tomat;keju,tahu;Indonesia;9-11 Bulan
+81;Puree Wortel Gurame;wortel, ikan gurame, asparagus, kentang, tempe, keju cheddar;ikan,tempe,keju;Indonesia;9-11 Bulan
+82;Jus Jambu Wortel;wortel, jambu merah, jeruk manis, air;;Indonesia;9-11 Bulan
+83;Biskuit Wortel;wortel, oat, tepung maizena, mentega tawar, ASI;tepung,mentega;Indonesia;9-11 Bulan
+84;Puree Alpukat Pisang;alpukat, pisang;;Indonesia;9-11 Bulan
+85;Salad Buah;alpukat, pisang, pir, yogurt;yogurt;Indonesia;9-11 Bulan
+86;Krim Alpukat Mangga;mangga, alpukat, yogurt;yogurt;Indonesia;9-11 Bulan
+87;Nasi Tim Saring Campur;beras, air, daging giling, brokoli, tomat, keju parut;keju;Indonesia;9-11 Bulan
+88;Nasi Tim Saring Ayam Wortel;beras, air, daging ayam giling, tempe, wortel, tomat, mentega;mentega;Indonesia;9-11 Bulan
+89;Nasi Tim Saring Ikan;beras, air, ikan, tempe, labu siam, tomat, mentega;ikan, tempe, mentega;;9-11 Bulan
+90;Jus Bayam;daun bayam, air;;Indonesia;9-11 Bulan
+91;Pure Bayam Jagung Tahu;daun bayam, jagung, tahu, kaldu ayam;tahu;Indonesia;9-11 Bulan
+92;Tim Makaroni Bayam;daun bayam, makaroni, ikan kakap, air, margarin;ikan,pasta;Indonesia;9-11 Bulan
+93;Nasi Tim Hati Ayam;air, beras, hati ayam, tempe, labu kuning, tomat, minyak;tempe;Indonesia;9-11 Bulan
+94;Nasi Tim Telur;beras, air, hati ayam, telur, wortel, daun kangkung, santan;tahu, telur;Indonesia;9-11 Bulan
+95;Nasi Tim Jagung Ikan;jagung, santan, ikan, tahu, tomat, wortel, kecap manis, margarin/mentega;ikan,tahu,mentega,kecap;Indonesia;9-11 Bulan
+96;Nasi Tim Ikan Salmon;beras merah, ikan salmon, bayam hijau, kacang merah, ASI/PASI/air;kacang,ikan;Indonesia;9-11 Bulan
+97;Bubur Ikan Salmon;ikan salmon, wortel, nasi matang, air, mentega;mentega, ikan;Indonesia;9-11 Bulan
+98;Tim Saring Salmon dan Tempe;ikan salmon, beras merah, tempe, buncis baby, kaldu sayur, telur rebus;ikan,tempe,mentega;Indonesia;9-11 Bulan
+99;Nasi Tim Daging Sapi;daging sapi, kaldu sapi, wortel, brokoli, bawang bombay, minyak zaitun/mentega;mentega;Indonesia;9-11 Bulan
+100;Nasi Tim Brokoli Ayam;beras putih, air, daging ayam, brokoli, wortel, mentega;mentega;Indonesia;9-11 Bulan
+101;Nasi Tim Bayam Daging;daging cincang, nasi aron, air, bayam, tahu putih, tomat, daun salam;tahu;Indonesia;9-11 Bulan
+102;Makaroni Tim Daging;makaroni, daging ayam/sapi cincang, bawang putih, bawang bombay, wortel kecil, kentang kecil, mentega, ASI;pasta,mentega,susu;Indonesia;9-11 Bulan
+103;Nasi Tim Hati Sapi;beras, hati sapi, labu manis, bayam, margarin;;Indonesia;9-11 Bulan
+104;Bubur Susu Avokad;tepung beras, air, sari avokad, ASI;tepung;Indonesia;6-8 Bulan
+105;Pure Apel Merah Sari Jeruk;apel merah, air, jeruk bayi;;Indonesia;6-8 Bulan
+106;Bubur Maizena Saus Jambu Merah;tepung maizena, air, ASI, jambu merah, air;tepung;Indonesia;6-8 Bulan
+107;Bubur Susu Stroberi;tepung beras, air matang, stroberi, susu kedelai/ASI;tepung,susu;Indonesia;6-8 Bulan
+108;Smoothie Pepaya;pepaya, air;;Indonesia;6-8 Bulan
+109;Bubur Susu Kacang  Ijo;tepung kacang hijau, air, ASI, melon;tepung,kacang;Indonesia;6-8 Bulan
+110;Smoothie Stroberi;stroberi, ASI;;Indonesia;6-8 Bulan
+111;Bubur Susu Kacang Merah;susu kedelai/ASI, kacang merah, keju;susu,kacang,keju;Indonesia;6-8 Bulan
+112;Pure Wortel;wortel, ASI;;Indonesia;6-8 Bulan
+113;Bubur Susu Oatmeal Keju;air, oatmeal, ASI, keju;keju;Indonesia;6-8 Bulan
+114;Bubur Roti Campur Apel;roti tawar putih, ASI, apel;roti;Indonesia;6-8 Bulan
+115;Bubur Susu Brokoli;brokoli, tepung beras, air, ASI;tepung;Indonesia;6-8 Bulan
+116;Bubur Susu Jagung Manis;jagung manis, tepung maizena, air, ASI, jeruk bayi;tepung;Indonesia;6-8 Bulan
+117;Bubur Susu Apel Jagung;apel, jagung manis, air matang, ASI, keju parut;keju;Indonesia;6-8 Bulan
+118;Pure Semangka;semangka merah, air;;Indonesia;6-8 Bulan
+119;Bubur Tenggiri Brokoli;ikan tenggiri, kentang, wortel, air, brokoli, margarin;ikan;Indonesia;6-8 Bulan
+120;Bubur Saring Makaroni;bawang bombay, ayam cincang, makaroni, wortel, minyak kelapa, tepung terigu;pasta,tepung;Indonesia;6-8 Bulan
+121;Bubur Saring Kentang Sayuran;kentang, kacang polong, tomat merah, keju, kaldu daging ayam/ikan/daging;kacang,keju;Indonesia;6-8 Bulan
+122;Bubur Saring Salmon;beras merah, kaldu ikan, ikan salmon, daun katuk, tahu;ikan,tahu;Indonesia;6-8 Bulan
+123;Bubur Oat Rasa Cokelat;oat, bubuk cokelat, air, ASI;;Indonesia;6-8 Bulan
+124;Bubur Hijau;kacang hijau, daun bayam, air, air rebusan kacang hijau dan bayam;kacang;Indonesia;6-8 Bulan
+125;Bubur Havermut;havernmut, air, avokad, kuning telur rebus;telur;Indonesia;6-8 Bulan
+126;Bubur Saring Manado;beras, air, labu kuning, ikan kakap, daun kangkung, daun bayam;ikan;Indonesia;6-8 Bulan
+127;Tim Merah Halus Ati Ayam;beras merah, hati ayam, bayam merah, margarin, air;tepung;Indonesia;6-8 Bulan
+128;Bubur Saring Kentang Salmon;kentang, daging ikan salmon, wortel, keju parut, margarin, air;keju,ikan;Indonesia;6-8 Bulan
+129;Bubur Halus Jagung Bawal;jagung manis, wortel, air, ikan bawal, tahu, daun seledri, daun bawang;ikan,tahu;Indonesia;6-8 Bulan
+130;Bubur Saring Tuna;beras, ikan tuna, kaldu daging, jahe parut, jeruk nipis, tofu, wortel, kembang kol;ikan,tofu;Indonesia;6-8 Bulan
+131;Bubur Saring Tempe Katuk;tepung beras, tempe, daging sapi giling, labu siam, air, santan, daun katuk;tepung,tempe;Indonesia;6-8 Bulan
+132;Bubur Havermut Sari Sayuran;kacang merah, air, wortel, brokoli, havermut, keju parut;kacang, keju;Indonesia;6-8 Bulan
+133;Bubur Makaroni Campur Tomat;makaroni rebus, daging ayam, kaldu ayam, tomat, kuning telur;pasta, telur;Indonesia;6-8 Bulan
+134;Tim Beras Merah Kakap;beras merah, ikan kakap, tahu, tomat, daun bayam, margarin;ikan;Indonesia;9-11 Bulan
+135;Tim  Tahu Ati Ayam;kentang, hati ayam, tahu, air, wortel, tomat, keju;tahu,keju;Indonesia;9-11 Bulan
+136;Bubur Sehat Havermut;daun kangkung, havermut, air, daging sapi, keju parut;keju;Indonesia;9-11 Bulan
+137;Makaroni Kuning Telur;air, makaroni, apel merah, wortel, keju parut, kuning telur, minyak kelapa/zairun, susu UHT;pasta,susu,keju, telur;Indonesia;9-11 Bulan
+138;Tim Havermut Tabur Keju;air, paprika merah, bayam, havermut, susu kedelai, daging sapi cincang, keju parut;susu,keju;Indonesia;9-11 Bulan
+139;Nasi Tim Sari Tomat;beras merah, tomat, tahu, ikan sarden, kacang merah, minyak kelapa;tahu,ikan,kacang;Indonesia;9-11 Bulan
+140;Tim Havermut Kedelai;kacang kedelai, ikan tenggiri, daun bawang, air, havermut, tomat, keju cheddar;keju,ikan,kacang;Indonesia;9-11 Bulan
+141;Tim Havermut Daging Giling;daging sapi giling, havermut, air, brokoli, tahu, margarin;tahu;Indonesia;9-11 Bulan
+142;Mi Tim Kakap Merah;kacang merah, mie, air, minyak zaitun extra virgin, fillet ikan kakap merah, buncis muda, bawang putih, bawang merah, kaldu ikan, daun salam;mie,ikan;Indonesia;9-11 Bulan
+143;Bubur Udang Kacang Polong;beras, udang, air, jagung, kacang polong, keju, telur ayam;kacang,keju,udang, telur;Indonesia;9-11 Bulan
+144;Tim Jagung Salmon;margarin, bawang putih, bawang merah, jagung manis. Ikan salmon, kacang polong, jamur kancing, daun salam;ikan,kacang;Indonesia;9-11 Bulan
+145;Tim Roti Gurih;wortel, buncis muda, roti wholemeal, ikan tuna giling, keju parut, tepung terigu, telur ayam;roti,ikan,keju,tepung, telur;Indonesia;9-11 Bulan
+146;Tim Pisang Salmon;pisang kepok, filet ikan salmon, kaldu ikan, minyak zaitun extra virgin, keju serut, labu kuning;ikan,keju;Indonesia;9-11 Bulan
+147;Tim Biskuit Buah;biskuit bayi, pisang kepok, susu UHT, kuning telur, avokad;susu, telur, roti, keju;Indonesia;9-11 Bulan
+148;Tim Merah Sapi Wortel;beras merah, daging sapi, wortel, irisan seledri, tahu, margarin;tahu;Indonesia;9-11 Bulan
+149;Agar-agar Buah;buah pepaya, melon oranye, mangga, air, gula halus, agar-agar bubuk;;Indonesia;9-11 Bulan
+150;Stik Keju;tepung terigu, mentega, kuning telur, keju parut, mentega;tepung,keju,mentega, telur;Indonesia;9-11 Bulan
+151;Kue Kering Apel;tepung terigu, susu formula, mentega, gula halus, kuning telur, vanili bubuk, apel, havermut,kacang almond;tepung,mentega,kacang,susu, telur;Indonesia;9-11 Bulan
+152;Puding Wortel Sari Jeruk;agar-agar putih, wortel rebus, susu cair, gula pasir, sari jeruk;susu;Indonesia;9-11 Bulan
+153;Puding Kacang Hijau;agar-agar putih, kacang hijau, susu cair, gula halus;susu,kacang;Indonesia;9-11 Bulan
+154;Makaroni Ayam Kukus;makaroni/nasi, ayam cincang, tahu, bawang putih, daun katuk, tepung terigu, air;pasta,tahu,tepung;Indonesia;9-11 Bulan
+155;Tumis Kentang Daging Bayam;kentang, ayam, kacang merah, daun bayam hijau, daun salam, bawang putih, bawang merah, kaldu ayam;kacang;Indonesia;9-11 Bulan
+156;Nasi Sapo Tahu;beras, air, daun pandan, minyak goreng, minyak wijen, bawang bombai, bawang putih, brokoli, dada ayam, tofu, gula pasir, garam, lada bubuk;minyak wijen,tofu;Indonesia;9-11 Bulan
+157;Bobor Bayam;telur, beras, tempe, kacang panjang, bawang merah, bawang putih, lengkuas, daun bayam, santan, air;telur,kacang,tempe;Indonesia;9-11 Bulan
+158;Sup Daging Kentang Goreng;kentang, minyak, wortel, jagung, kacang merah, daging sapi, air, bawang bombai, bawang putih;kacang;Indonesia;9-11 Bulan
+159;Bubur Ayam Tumis Kaldu;bawang putih, air, daun salam, daging ayam, nasi putih, wortel, kacang merah, minyak goreng;kacang;Indonesia;9-11 Bulan
+160;Bubur Beras Pepes Ikan Nila;beras, daun salam, serai, air, tempe, minyak, ikan nila, bawang merah, bawang putih, tomat, daun salam, serai, jahe, kunyit, daun kemangi;tempe,ikan;Indonesia;9-11 Bulan
+161;Perkedel 4 Bintang;kentang, tempe, wortel, bawang putih, bawang merah, daging sapi, daun salam, lengkuas, telur ayam, tepung maizena, air, minyak;tempe,tepung,telur;Indonesia;9-11 Bulan
+162;Bubur Liwet Lauk Kukus;minyak goreng, bawang merah, bawang putih, serai, daun salam, tomat merah, air, beras, brokoli, wortel, tempe, hati ayam;tempe;Indonesia;6-8 Bulan
+163;Telur Dadar 4 Bintang;telur, kentang, wortel, daging ayam, susu UHT, bawang merah, daun bawang, seledri, minyak goreng, tahu sutra;susu,tahu, telur;Indonesia;6-8 Bulan
+164;Bubur Gurih Bayam Hulur;beras, daun salam, daun jeruk, air, santan, telur puyuh, daun bayam, bawang merah, bawang putih, daging ayam, tahu;tahu, telur;Indonesia;6-8 Bulan
+165;Nasi Panggang;beras, air, edamame, daun salam, telur, jamur champgnon, bawang putih, oregano, keju;keju,kacang;Indonesia;6-8 Bulan
+166;Capcai Udang;bawang merah, bawang putih, bawang bombai, udang, tahu, brokoli, tomat, air, nasi, minyak sayur;udang,tahu;Indonesia;6-8 Bulan
+167;Bubur Nasi Sate Lilit;air, nasi, minyak goreng, bawang merah, bawang putih, kunyit, jahe, kemiri, ketumbar, daun salam, daun jeruk, serai, daging ayam giling, tahu, santan, wortel, serai;tahu;Indonesia;6-8 Bulan
+168;Bubur Nasi Mangut Lele;air, nasi, minyak, ikan lele, bawang merah, bawang putih, kunyit, minyak, serai, lengkuas, daun salam, daun heruk, air, santan, tahu, tomat merah, daun kemangi;ikan,tahu;Indonesia;6-8 Bulan
+169;Bubur Kaldu Kuning Lauk Sop;air, iga sapi/dada ayam dan tulang ayam, kacang tunggak merah, wortel, daun bawang, gula, garam, lada bubuk, bawang putih, bawang merah, daun salam, serai, kaldu sup, kunyit, nasi;kacang;Indonesia;6-8 Bulan
+170;Nasi Gulai Salmon;beras, air, salmon fillet, tahu, daun salam, serai, daun kunyit, kunyit bubuk, ketumbar bubuk, bumbu gulai, santan, tomat merah, daun bawang, seledri, bawang putih bawang merah, lada;ikan,tahu;Indonesia;9-11 Bulan
+171;Rice Bowl Cheesy Chicken Nugget;dada ayam, tepung terigu, bawang putih, telur, garam, lada bubuk, pala bubuk, keju, wortel, tahu/tofu, terigu, telur, tepung roti, minyak goreng, nasi, kaldu ayam, mentega, kol, wortel, tomat, mentimun;keju,tahu,tepung, telur, mentega;Indonesia;6-8 Bulan
+172;Bubur Bovine;minyak goreng, bawang bombai, bawang putih, daging sapi beku, nasi, hati ayam, tempe goreng, tomat merah, kaldu sapi, garam, lada, tulang kaki sapi, air;tempe;Indonesia;6-8 Bulan
+173;Tumis Ayam Kentawo;daging ayam, kentang, wortel, tahu, minyak sayur, bawang merah, bawang putih, daun salam, air;tahu;Indonesia;6-8 Bulan
+174;Pindang Bandeng;beras, ikan bandeng, air perasan jeruk nipis, garam, air, tomat, kacang tunggak, kunyit, bawang merah, bawang putih, asam jawa;ikan,kacang;Indonesia;6-8 Bulan
+175;Nasi Kuning Versi Bubur;santan, kunyit, beras, air, daun salam, gula pasir, garam, telur puyuh, daun bawang, seledri, minyak goreng, tempe, bawang merah goreng;tempe, telur;Indonesia;9-11 Bulan
+176;Soto Daging Madura;daging sapi, air, serai, daun jeruk, jahe, lengkuas, garam, gula, bawang merah, bawang putih, kunyit, merica, ketumbar, jintan, bawang goreng, perasan jeruk nipis, seledri/daun bawang, kerupuk bawang/udang;kerupuk udang;Indonesia;9-11 Bulan
+177;Nasi Uduk Wortel Udang;minyak goreng, bawang merah, udang, daun salam, serai, wortel, santan, garam, lada bubuk, beras;udang;Indonesia;9-11 Bulan
+178;Patties 4 Bintang;minyak goreng, bawang merah, bawang putih, serai, daun salam, hati ayam, tomat, daun bawang, seledri, kentang, kacang merah, oat, kuning telur;kacang, telur;Indonesia;9-11 Bulan
+179;Sup  Krim Jagung 4 Bintang;olive oil, bawang bombai, jagung, kaldu daging, oatmeal, kacang merah, susu UHT, daging sapo giling, meruca bubuk, pala bubuk, garam, keju parut;susu,keju,kacang;Indonesia;9-11 Bulan
+180;Dimsum;jamur tiram, daging ayam, tahu, labu siam, tepung sagu, putih telur, kulit pangsit, minyak, bawang merah, bawang putih, garam, lada bubuk, gula, saus tiram, wortel, kuning telur, tepung sagu, garam;tahu,tepung,telur;Indonesia;6-8 Bulan
+181;Makaroni Schotel 4 Bintang;makaroni, daging sapi cincang, brokoli, wortel, tahu, telur, susu/air, tomat, bawang merah, bawang putih, garam, lada bubuk, margarin, seledri, keju;pasta,susu,keju,telur;Indonesia;6-8 Bulan
+182;Puding Roti Gurih;kaldu/minyak goreng, bawang merah, bawang putih, daging ayam, wortel, santan, air, tepung maizena, roti tawar;roti;Indonesia;6-8 Bulan
+183;Puding Ubi 4 Bintang;air, ubi kuning, jagung, kacang hijau, daun pandan, gula, garam, agar-agar, susu UHT, santan, telur ayam;kacang,susu, telur;Indonesia;6-8 Bulan
+184;Bola  Kentang Daging Keju;minyak goreng, kentang, telur ayam, lada bubuk, daun seledri, ketumbar bubuk, keju, bawang putih, putih telur, tepung roti, bawang merah, bawang putih, daun bawang, daging sapi cincang, tahu, garam, gula, wortel, keju;tepung,keju, telur, tahu;Indonesia;6-8 Bulan
+185;Kroket Meleleh ;kentang, paha ayam rebus, jamur champignon, tahu, bawang bombai, tepung roti, parsley, keju, minyak;tepung,keju,tahu;Indonesia;6-8 Bulan
+186;Martabak Mijawi (Mi-Jamur-Sawi);tepung terigu, telur, jamur kancing/jamur kuping, bihun, telur, sawi sendok, garam, lada;Mie,tepung;Indonesia;9-11 Bulan
+187;Puding Kukus Buto Ijo (Labu-Telur-Roti-Kacang Ijo);roti tawar, telur, kacang hijau, labu madu, santan/susu UHT, keju;roti,kacang,susu,keju;Indonesia;6-8 Bulan
+188;Puding Roti Jatelo;telur, kacang hijau, jagung manis, santan, bubuk jelu, agar-agar, roti tawar;susu,roti,kacang;Indonesia;6-8 Bulan
+189;Teeth Soothing Ice Cream;susu UHT, roti tawar cincang, telur, kacang tanah, buah naga, bubuk jeli, kurma;susu,roti,kacang;Indonesia;6-8 Bulan
+190;Kurma Silky Pudding;susu segar, kurma, agar-agar, bubuk jeli;susu, gelatin;Indonesia;6-8 Bulan
+191;Sweet Potato and Orange Cheese Pancake;ubi jalar, tepung terigu, gula pasir, baking powder, soda kue, yogurt tawar, telur, mentega tawar, saus nanas;tepung,yogurt,mentega,keju, telur;Indonesia;6-8 Bulan
+192;Bola-bola Tahu Kacang Merah;tahu, kacang merah, telur, wortel, daun bawang, tepung terigu, lada putih, garam, keju, tepung panir;tahu,kacang,tepung, telur;Indonesia;6-8 Bulan
+193;Mango Popsicle;mangga, madu, air perasan jeruk lemon, air;;Indonesia;6-8 Bulan
+194;Bubur Oat Pisang  Keju;oat, pisang, air/susu/kaldu;susu,keju;Indonesia;6-8 Bulan
+195;Kembang Kol Goreng Krispi;kembang kol, tepung terigu, garam, lada bubuk, bawang putih bubuk, oregano, minyak, air biasa;tepung;Indonesia;6-8 Bulan
+196;Pumpkin Pancakes;tepung terigu, gula, baking powder, kayu manis bubuk, jahe bubuk, garam, pala, susu UHT, pure labu, mentega, telur;tepung,susu,mentega,telur;Indonesia;6-8 Bulan
+197;Roti Abon Mayonaise;roti tawar, mayonnaise, susu kental manis, abon;roti, mayonnaise, susu;Indonesia;6-8 Bulan
+198;Crispy Potato & Tuna Mayo Sauce;kentang, bawang putih, garam, tepung terigu, tepung serbaguna, telur, ikan tuna, mayonnaise, dried parsley, lada, garam;tepung,telur,ikan,mayonnaise;Indonesia;9-11 Bulan
+199;Mentai Udang Wortel;nasi, mentega, bawang putih, bawang bombay, wortel, udang, telur, air, mayonnaise, keju, seledri;mentega,udang,telur,keju,mayonnaise;Indonesia;9-11 Bulan
+200;Bola Nasi Ikan Salmon Mayo;ikan salmon, nasi, mayonnaise, keju parut, air, margarin, bawang bombay, minyak wijen, parsley, garam, gula pasir, kaldu bubuk;ikan, mayonnaise, keju;Indonesia;9-11 Bulan
+201;Roti Salmon Mayo;salmon, roti tawar, mayonnaise, saos tomat, parsley, keju, mentega/margarin;ikan, roti, mayonnaise, keju;;6-8 Bulan
+202;Ikan Dori Saus Mayo;ikan dori, brokoli, tomat merah, mayonnaise, lada bubuk, kaldu bubuk, bawang putih;ikan, mayonnaise;Indonesia;6-8 Bulan
+203;Beef Stroganoff;daging wagyu, mentega truffle garlic, bawang bombay, bawang putih bubuk, paprika, cooking cream, mayonnaise, garam, kecap inggris;mayonnaise, krim;Indonesia;6-8 Bulan
+204;Buffalo Chicken Toast;ayam bagian dada, mayonnaise, lada hitam, himalayan salt, bawang bombay, bawnag putih, minyak zaitun, oregano, margarin, roti tawar;roti, mayonnaise;Indonesia;6-8 Bulan
+205;Pancake Satan Keju Madu;bubuk pancake, santan kara, susu uht full cream, keju, margarin,madu, telur, mayonnaise, garam;keju, mayonnaise;Indonesia;6-8 Bulan
+206;Egg Mayo Sando;mayonnaise, roti tawar putih, telur puyuh, susu uht plain, garam, gula;susu, roti, telur;Indonesia;6-8 Bulan
