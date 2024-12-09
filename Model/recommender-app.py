@@ -3,7 +3,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import re
 from recipe_sim_filtering import find_recipes_sim
 # ---------------------------- library -----------------------------------------
 
@@ -95,11 +94,11 @@ if st.button("Recommend Recipe"):
 
         for index,row in filtered_pd.iterrows():
             with st.expander(row["nama_resep"]):
-                st.write(f"**Nama Resep:** {row["nama_resep"]}")
-                st.write(f"**Bahan Resep:** {row["bahan_resep"]}")
-                st.write(f"**Bahan Alergen:** {row["bahan_alergen"]}")
+                st.write(f"**Nama Resep:** {row['nama_resep']}")
+                st.write(f"**Bahan Resep:** {row['bahan_resep']}")
+                st.write(f"**Bahan Alergen:** {row['bahan_alergen']}")
                 st.write(f"**Umur Resep:** {', '.join(map(str, row['umur_resep']))}")
-                st.write(f"**Similarity Score:** {row["similarity_score"]}")
+                st.write(f"**Similarity Score:** {row['similarity_score']}")
 
 
 
