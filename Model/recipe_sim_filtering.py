@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 # from sklearn.metrics.pairwise import cosine_similarity
 
 
-df = pd.read_excel('Concept_Data Resep_Updated.xlsx')
+df = pd.read_excel('./Concept_Data Resep_Updated.xlsx')
 df = df.replace(np.nan,"")
 df['umur_resep'] = df['umur_resep'].astype(str)
 df['umur_resep'] = df['umur_resep'].apply(lambda x: list(map(int, x.split(','))))
