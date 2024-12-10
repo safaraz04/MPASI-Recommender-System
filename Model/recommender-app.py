@@ -80,7 +80,7 @@ else:
 
 st.text('')
 
-df = pd.read_excel("Concept_Data Resep_Updated.xlsx")
+df = pd.read_excel("./Concept_Data Resep_Updated.xlsx")
 
 if st.button("Recommend Recipe"):
         st.subheader(f"Recommended Recipe for {user_name}")
