@@ -97,7 +97,8 @@ if st.button("Recommend Recipe"):
                 st.write(f"**Nama Resep:** {row['nama_resep']}")
                 st.write(f"**Bahan Resep:** {row['bahan_resep']}")
                 st.write(f"**Bahan Alergen:** {row['bahan_alergen']}")
-                st.write(f"**Umur Resep:** {', '.join(map(str, row['umur_resep']))}")
+                #st.write(f"**Umur Resep:** {', '.join(map(str, row['umur_resep']))}")
+                st.write(f"**Resep diperuntukkan bayi berumu:**{", ".join(f'{umur} Bulan' for umur in row['umur_resep'])}")
                 st.write(f"**Similarity Score:** {row['similarity_score']}")
 
 
